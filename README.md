@@ -3,6 +3,6 @@ This is a simple notepad mimic with python library guizero
 
 download the library guizero with this
 
-*pip install guizero
+*    pip install guizero     *
 
 then run the code in a python environment
